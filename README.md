@@ -1,1 +1,1 @@
-# lion-app-groq-cloud
+# lion-groq
